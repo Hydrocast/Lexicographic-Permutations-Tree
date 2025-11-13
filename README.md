@@ -32,13 +32,13 @@ This implementation demonstrates:
 
 ## Usage
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/Hydrocast/Lexicographic-Permutations-Tree.git
 
-- git clone https://github.com/Hydrocast/Lexicographic-Permutations-Tree.git
-- cd LexicographicPermutationsTree
-- Run the program:
-- python3 permutations_tree.py
-- Enter a positive integer n when prompted. The program will display all permutations of {1, 2, ..., n} in lexicographic order.
+2. cd LexicographicPermutationsTree
+
+3. Run the program: python3 permutations_tree.py
+
+4. Enter a positive integer n when prompted. The program will display all permutations of {1, 2, ..., n} in lexicographic order.
 
 ---
 
