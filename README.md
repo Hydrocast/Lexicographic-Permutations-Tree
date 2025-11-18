@@ -43,6 +43,7 @@ This implementation demonstrates:
 ---
 
 ## Example:
+```bash
 Enter a positive integer n: 3
 
 { 1, 2, 3 }
